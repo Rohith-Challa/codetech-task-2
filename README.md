@@ -90,6 +90,7 @@ if( Serial.available() >0 ) {
 }
 
 OUTPUT:
+
 ![WhatsApp Image 2025-07-03 at 14 31 00_a85b298e](https://github.com/user-attachments/assets/cafe8b72-e6b8-4d6f-acc5-e88ea580299c)
 
 ![WhatsApp Image 2025-07-03 at 14 31 00_a5210bfc](https://github.com/user-attachments/assets/61b7c6e6-46a6-43ec-b1f3-b3f0fe9784b8)
